@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#PBS -l nodes=4:ppn=12
+#PBS -l walltime=0:00:10
+
+#PBS -q batch
+#PBS -N MPI_Integrate
+#PBS -j oe
+
+cd /home/arrowoode/class060419
+mpiexec -np 4 --map-by ppr:1:node --hostfile $PBS_NODEFILE ./mpi-integrate.x

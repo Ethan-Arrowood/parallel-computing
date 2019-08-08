@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#PBS -l nodes=4:ppn=12
+#PBS -l walltime=0:05:00
+
+#PBS -q batch
+#PBS -N MPIMVP_4nodes
+#PBS -j oe
+
+cd /home/arrowoode/LA2
+mpiexec -np 4 --map-by ppr:1:node --hostfile $PBS_NODEFILE ./mpi-mvp.x

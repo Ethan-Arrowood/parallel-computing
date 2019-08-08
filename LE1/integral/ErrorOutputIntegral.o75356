@@ -1,0 +1,5 @@
+// This exact was determined by Wolfram Alpha: http://www3.wolframalpha.com/input/?i=integrate+3.0+*+e%5E(-x)+*+sin%5E2(x)+%2B+1.0+from+0+to+3
+Exact: 4.14801000
+The numerical approximation is: 4.14800738
+Error: -0.000001
+Num Ranks: 1 | Time: 137.894246

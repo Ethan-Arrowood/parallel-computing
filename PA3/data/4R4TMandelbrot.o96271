@@ -1,0 +1,45 @@
+Numranks: 4, split: 1000
+Numranks: 4, split: 1000
+Numranks: 4, split: 1000
+Numranks: 4, split: 1000
+rank: 3 | tid: 11 | time: 0.201375
+rank: 3 | tid: 8 | time: 0.201512
+rank: 3 | tid: 5 | time: 0.201600
+rank: 3 | tid: 2 | time: 0.201687
+rank: 3 | tid: 0 | time: 0.201621
+rank: 3 | tid: 1 | time: 0.201626
+rank: 3 | tid: 6 | time: 0.201688
+rank: 3 | tid: 10 | time: 0.201691
+rank: 3 | tid: 9 | time: 0.201607
+rank: 3 | tid: 3 | time: 0.201708
+rank: 3 | tid: 7 | time: 0.202522
+rank: 3 | tid: 4 | time: 0.201744
+rank: 0 | tid: 3 | time: 0.512075
+rank: 0 | tid: 1 | time: 0.515073
+rank: 0 | tid: 2 | time: 0.516954
+rank: 0 | tid: 0 | time: 0.519914
+rank: 2 | tid: 1 | time: 0.915906
+rank: 2 | tid: 4 | time: 0.915934
+rank: 2 | tid: 5 | time: 0.915923
+rank: 2 | tid: 3 | time: 0.915997
+rank: 2 | tid: 11 | time: 0.916233
+rank: 2 | tid: 2 | time: 0.916329
+rank: 2 | tid: 6 | time: 0.916388
+rank: 2 | tid: 7 | time: 0.916250
+rank: 2 | tid: 9 | time: 0.917142
+rank: 2 | tid: 0 | time: 0.917253
+rank: 2 | tid: 10 | time: 0.919886
+rank: 2 | tid: 8 | time: 0.920402
+rank: 1 | tid: 7 | time: 0.968384
+rank: 1 | tid: 0 | time: 0.968533
+rank: 1 | tid: 5 | time: 0.968812
+rank: 1 | tid: 2 | time: 0.969003
+rank: 1 | tid: 6 | time: 0.969339
+rank: 1 | tid: 10 | time: 0.969522
+rank: 1 | tid: 1 | time: 0.969859
+rank: 1 | tid: 11 | time: 0.970172
+rank: 1 | tid: 8 | time: 0.970223
+rank: 1 | tid: 9 | time: 0.971844
+rank: 1 | tid: 4 | time: 0.976578
+rank: 1 | tid: 3 | time: 0.976630
+Area of Mandelbrot set = 1.521744

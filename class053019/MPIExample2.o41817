@@ -1,0 +1,9 @@
+Warning: Permanently added the ECDSA host key for IP address '192.168.1.15' to the list of known hosts.
+Total time to send 0.007059
+rank = 0  Results: 1.000000 2.000000 3.000000 4.000000
+Total time to send 0.013670
+rank = 2  Results: 9.000000 10.000000 11.000000 12.000000
+Total time to send 0.016370
+rank = 1  Results: 5.000000 6.000000 7.000000 8.000000
+Total time to send 0.016482
+rank = 3  Results: 13.000000 14.000000 15.000000 16.000000

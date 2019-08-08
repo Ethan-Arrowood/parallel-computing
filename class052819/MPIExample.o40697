@@ -1,0 +1,5 @@
+Number of tasks= 2 My rank= 0 Running on winston
+Hello from task 0 on winston!
+MASTER: Number of MPI tasks is: 2
+Number of tasks= 2 My rank= 1 Running on roadhog
+Hello from task 1 on roadhog!

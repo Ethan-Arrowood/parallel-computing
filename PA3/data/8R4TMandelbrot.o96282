@@ -1,0 +1,97 @@
+Numranks: 8, split: 500
+Numranks: 8, split: 500
+Numranks: 8, split: 500
+Numranks: 8, split: 500
+Numranks: 8, split: 500
+Numranks: 8, split: 500
+Numranks: 8, split: 500
+Numranks: 8, split: 500
+rank: 7 | tid: 1 | time: 0.036177
+rank: 7 | tid: 5 | time: 0.036183
+rank: 7 | tid: 7 | time: 0.036182
+rank: 7 | tid: 8 | time: 0.036236
+rank: 7 | tid: 6 | time: 0.036194
+rank: 7 | tid: 0 | time: 0.036271
+rank: 7 | tid: 2 | time: 0.036196
+rank: 7 | tid: 4 | time: 0.036224
+rank: 7 | tid: 11 | time: 0.036433
+rank: 7 | tid: 10 | time: 0.036494
+rank: 7 | tid: 9 | time: 0.036187
+rank: 7 | tid: 3 | time: 0.036255
+rank: 0 | tid: 2 | time: 0.077145
+rank: 0 | tid: 0 | time: 0.077349
+rank: 0 | tid: 3 | time: 0.077673
+rank: 0 | tid: 1 | time: 0.077909
+rank: 1 | tid: 6 | time: 0.137413
+rank: 1 | tid: 2 | time: 0.137762
+rank: 1 | tid: 11 | time: 0.138218
+rank: 1 | tid: 4 | time: 0.138633
+rank: 6 | tid: 0 | time: 0.140698
+rank: 6 | tid: 10 | time: 0.141053
+rank: 1 | tid: 5 | time: 0.139132
+rank: 1 | tid: 9 | time: 0.139200
+rank: 6 | tid: 9 | time: 0.141669
+rank: 1 | tid: 0 | time: 0.139553
+rank: 6 | tid: 6 | time: 0.141678
+rank: 6 | tid: 3 | time: 0.141867
+rank: 6 | tid: 2 | time: 0.141993
+rank: 6 | tid: 7 | time: 0.142038
+rank: 6 | tid: 8 | time: 0.142085
+rank: 6 | tid: 1 | time: 0.142120
+rank: 6 | tid: 11 | time: 0.142010
+rank: 6 | tid: 4 | time: 0.142030
+rank: 6 | tid: 5 | time: 0.142238
+rank: 1 | tid: 3 | time: 0.140987
+rank: 1 | tid: 7 | time: 0.141101
+rank: 1 | tid: 8 | time: 0.141180
+rank: 1 | tid: 10 | time: 0.141493
+rank: 1 | tid: 1 | time: 0.141584
+rank: 5 | tid: 9 | time: 0.275546
+rank: 5 | tid: 11 | time: 0.276901
+rank: 5 | tid: 1 | time: 0.278080
+rank: 5 | tid: 0 | time: 0.278097
+rank: 5 | tid: 6 | time: 0.278857
+rank: 5 | tid: 5 | time: 0.278858
+rank: 5 | tid: 3 | time: 0.278878
+rank: 5 | tid: 7 | time: 0.278983
+rank: 5 | tid: 10 | time: 0.280616
+rank: 5 | tid: 8 | time: 0.280667
+rank: 5 | tid: 4 | time: 0.280682
+rank: 5 | tid: 2 | time: 0.280694
+rank: 2 | tid: 6 | time: 0.282306
+rank: 2 | tid: 0 | time: 0.282944
+rank: 2 | tid: 9 | time: 0.285742
+rank: 2 | tid: 5 | time: 0.285917
+rank: 2 | tid: 3 | time: 0.286109
+rank: 2 | tid: 7 | time: 0.286392
+rank: 2 | tid: 11 | time: 0.286598
+rank: 2 | tid: 1 | time: 0.287421
+rank: 2 | tid: 8 | time: 0.291677
+rank: 2 | tid: 10 | time: 0.291701
+rank: 2 | tid: 2 | time: 0.292186
+rank: 2 | tid: 4 | time: 0.292422
+rank: 3 | tid: 11 | time: 0.405391
+rank: 3 | tid: 10 | time: 0.405592
+rank: 3 | tid: 9 | time: 0.407868
+rank: 3 | tid: 1 | time: 0.408846
+rank: 3 | tid: 2 | time: 0.409235
+rank: 3 | tid: 5 | time: 0.409338
+rank: 3 | tid: 3 | time: 0.409544
+rank: 3 | tid: 4 | time: 0.410194
+rank: 3 | tid: 0 | time: 0.413604
+rank: 3 | tid: 8 | time: 0.414208
+rank: 3 | tid: 7 | time: 0.414456
+rank: 3 | tid: 6 | time: 0.414963
+rank: 4 | tid: 8 | time: 0.594107
+rank: 4 | tid: 9 | time: 0.598244
+rank: 4 | tid: 0 | time: 0.598508
+rank: 4 | tid: 5 | time: 0.600865
+rank: 4 | tid: 1 | time: 0.602555
+rank: 4 | tid: 4 | time: 0.602639
+rank: 4 | tid: 10 | time: 0.602657
+rank: 4 | tid: 3 | time: 0.602729
+rank: 4 | tid: 11 | time: 0.608181
+rank: 4 | tid: 2 | time: 0.608229
+rank: 4 | tid: 6 | time: 0.608252
+rank: 4 | tid: 7 | time: 0.608298
+Area of Mandelbrot set = 1.521744

@@ -1,0 +1,2 @@
+Total time by processors 0 & 1 to ping-pong array of 268435456 ints: 2.009242
+Total time by processors 0 & 2 to ping-pong array of 268435456 ints: 1.976043

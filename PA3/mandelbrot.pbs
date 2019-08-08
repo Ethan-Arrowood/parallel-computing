@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#PBS -V
+#PBS -l nodes=$rank:ppn=12
+#PBS -l walltime=0:01:00
+#PBS -q batch
+#PBS -N $rankR$threadTMandelbrot
+#PBS -j oe
+
+
+cd /home/arrowoode/PA3
+export OMP_NUM_THREADS=$thread
+mpiexec -np $rank --map-by ppr:1:node --hostfile $PBS_NODEFILE ./mandelbrot.cx

@@ -1,0 +1,6 @@
+Numranks: 2, split: 2000
+Numranks: 2, split: 2000
+rank: 1 | tid: 0 | time: 4.400681
+rank: 1 | tid: 1 | time: 4.400762
+rank: 0 | tid: 0 | time: 7.687740
+Area of Mandelbrot set = 1.521744

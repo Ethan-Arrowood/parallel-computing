@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#PBS -l nodes=5:ppn=12
+#PBS -l walltime=0:00:50
+
+#PBS -q batch
+#PBS -N Sendrecv
+#PBS -j oe
+
+cd /home/arrowoode/class062519
+mpiexec -np 5 --map-by ppr:1:node --hostfile $PBS_NODEFILE ./sendrecv.x

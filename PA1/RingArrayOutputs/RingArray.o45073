@@ -1,0 +1,3 @@
+Warning: Permanently added the ECDSA host key for IP address '192.168.1.10' to the list of known hosts.
+Total time by processor 1 to send and receive the 1gb array payload of 268435456 ints: 2.001845
+Total time by processor 0 to send and receive the 1gb array payload of 268435456 ints: 2.005641

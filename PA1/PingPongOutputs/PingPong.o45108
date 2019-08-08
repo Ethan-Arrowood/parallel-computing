@@ -1,0 +1,3 @@
+Warning: Permanently added the ECDSA host key for IP address '192.168.1.9' to the list of known hosts.
+Total time by processors 0 & 1 to ping-pong array of 268435456 ints: 2.090222
+Total time by processors 0 & 2 to ping-pong array of 268435456 ints: 1.967410

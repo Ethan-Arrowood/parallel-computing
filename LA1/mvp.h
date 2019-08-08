@@ -1,0 +1,11 @@
+void allocMat1(double** mat, int r, int c);
+void allocMat2(double*** mat, int r, int c);
+void allocVec(double** vec, int l);
+void assignMat1(double* mat, int r, int c);
+void assignMat2(double** mat, int r, int c);
+void assignVec(double* vec, int l);
+double* mvp1(double* mat, double* vec, int r, int c);
+double* mvp2(double** mat, double* vec, int r, int c);
+void printMatVec1(double* mat, double* vec, double* res, int r, int c);
+void printMatVec2(double** mat, double* vec, double* res, int r, int c);
+void freeMat(double** mat, int r);

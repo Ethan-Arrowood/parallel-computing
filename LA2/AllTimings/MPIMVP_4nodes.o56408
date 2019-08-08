@@ -1,0 +1,4 @@
+rank 2 | N 40000 | prog 21.031724 | mvp 1.437381 | scatter 19.474525 | gather 0.022516 
+rank 1 | N 40000 | prog 21.031896 | mvp 1.435805 | scatter 19.474291 | gather 0.024104 
+rank 3 | N 40000 | prog 21.032085 | mvp 1.440533 | scatter 19.476650 | gather 0.017545 
+rank 0 | N 40000 | prog 21.421730 | mvp 1.457392 | scatter 10.111240 | gather 0.001094 

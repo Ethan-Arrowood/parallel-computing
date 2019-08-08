@@ -1,0 +1,2 @@
+Total time by processor 1 to send and receive the 1gb array payload of 268435456 ints: 2.025964
+Total time by processor 0 to send and receive the 1gb array payload of 268435456 ints: 2.028122
